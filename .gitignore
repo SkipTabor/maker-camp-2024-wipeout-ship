@@ -1,0 +1,36 @@
+# macOS hidden files and folders
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS metadata files
+*.AppleDouble
+._*
+
+# macOS cache files
+*.swp
+*.lock
+*.pyc
+*.pyo
+*.idx
+*.db
+
+# macOS filesystem files
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
